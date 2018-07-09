@@ -1,5 +1,5 @@
 
-*Maizuru
+*Maizuru*
 2015:
 SCHOOL_AR&VR 完成　5人
 鬼ごっこ　未完 2人
@@ -15,3 +15,4 @@ VRHMD　未完
 
 2018:
 夢パシャ　製作中
+
