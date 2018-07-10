@@ -1,5 +1,6 @@
 <フォルダ構成>
 *MaizuruKosen_portfolio
+
 2015:
 高専祭：       SCHOOL_AR&VR    Unity     完成 建物のテクスチャ製作担当/5人
 高専祭：       鬼ごっこ　        Unity     未完 機能実装担当/2人
@@ -34,7 +35,10 @@ WEBサービス：  夢パシャ　        wordpress　製作中　１人
 2018:
 WEBサービス：  夢パシャ　        wordpress　製作中　１人
 
-＜身に着けた技術＞
+＜高専で身に着けている技術＞
 プログラム：C,C++,Unity C#,Html,CSS
 回路設計：EAGLE
 機械設計：SolidEdge
+
+＜今後学習する言語＞
+JavaScript,PHP
