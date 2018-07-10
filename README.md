@@ -1,3 +1,6 @@
+**確認したところgitではファイルが壊れており、閲覧できないファイルがあるため、下記のGoogleDriveへアクセスお願いします。
+https://drive.google.com/drive/folders/1-4UcDNtgOJUvdSKTDWuWTAj3YLPY-FAj?usp=sharing
+
 <フォルダ構成>
 *MaizuruKosen_portfolio
 
@@ -14,9 +17,9 @@
 
 2018:
 WEBサービス：  夢パシャ　        wordpress　製作中　１人
-創造工学：     ハジコマ          Unity　　　製作中 校内ストリートビュー担当/4人 [*1]
+創造工学：     ハジコマ          Unity　　　製作中 校内ストリートビュー担当/4人 
 
-[*1]https://drive.google.com/open?id=1m5Mk85_viJmHxXactc4UJN3F9DBJLyay
+
 
 <舞鶴高専で製作してきたもの>
 2015:
