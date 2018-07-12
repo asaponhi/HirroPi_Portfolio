@@ -1,3 +1,6 @@
+H30 7/13 現在製作中のWEBサイト「夢パシャ」を無料サーバーに移行しました。
+http://hirropi.wp.xdomain.jp/
+
 **確認したところgitではファイルが壊れており、閲覧できないファイルがあるため、下記のGoogleDriveへアクセスお願いします。
 https://drive.google.com/drive/folders/1-4UcDNtgOJUvdSKTDWuWTAj3YLPY-FAj?usp=sharing
 
@@ -16,9 +19,10 @@ https://drive.google.com/drive/folders/1-4UcDNtgOJUvdSKTDWuWTAj3YLPY-FAj?usp=sha
 高専プロコン：  TRY!聴音羽　     Android    完成 回路設計担当/5人
 
 2018:
-WEBサービス：  夢パシャ　        wordpress　製作中　１人
+WEBサービス：  夢パシャ　        wordpress　製作中　１人　［*1］
 創造工学：     ハジコマ          Unity　　　製作中 校内ストリートビュー担当/4人 
 
+［*1］http://hirropi.wp.xdomain.jp/
 
 
 <舞鶴高専で製作してきたもの>
